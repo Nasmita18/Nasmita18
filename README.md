@@ -1,4 +1,6 @@
-![Header](https://github.com/Nasmita18/Nasmita18/blob/main/assets/big_bag.png)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+</div>
 
 ## ✨Привет, я действующий QA Manual Engineer.✨
 
